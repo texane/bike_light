@@ -1386,6 +1386,11 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <sheets>
 <sheet>
 <plain>
+<text x="0" y="30.48" size="1.778" layer="97">VCC is 9v unreg supply</text>
+<text x="0" y="43.18" size="1.778" layer="97">LTSPICE simulation results</text>
+<text x="0" y="40.64" size="1.778" layer="97">period = 0.78s</text>
+<text x="0" y="38.1" size="1.778" layer="97">duty = 0.31s</text>
+<text x="0" y="35.56" size="1.778" layer="97">peak current = 122mA</text>
 </plain>
 <instances>
 <instance part="R1" gate="G$1" x="10.16" y="15.24" rot="R90"/>
